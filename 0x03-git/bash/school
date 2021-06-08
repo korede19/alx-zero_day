@@ -1,1 +1,2 @@
-conflict resolved
+#!/bin/bash
+echo "The School is open!"
